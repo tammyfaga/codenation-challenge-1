@@ -7,7 +7,8 @@ O desafio é desenvolver a página inicial de um site de avaliação de filmes (
 > 👉 [IMDB Codenation](https://aceleradev-react.netlify.com/aula-01/public/)
 
 ## Rodando o Projeto:
-`yarn install` ou `npm install`
+`yarn install` ou `npm install` 
+
 `yarn start` ou `npm start`
 
 Um servidor irá abrir a página no seu navegador.
