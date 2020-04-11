@@ -1,0 +1,39 @@
+/* fonts */
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
+
+/* styles */
+@import "normalize.css";
+@import "header.css";
+@import "nav-header.css";
+@import "login.css";
+@import "nav-catalog.css";
+@import "catalog.css";
+@import "footer.css";
+
+/* reset */
+* {
+	box-sizing: border-box;
+}
+
+ul, li {
+	margin: 0;
+	padding: 0;
+	list-style:none; 
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+/* global */
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 10px;
+}
+
+.container {
+	margin: 0 auto;
+	width: 960px;
+}

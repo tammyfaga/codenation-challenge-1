@@ -1,0 +1,14 @@
+{
+  "name": "react-11",
+  "version": "1.0.0",
+  "description": "O desafio é desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas HTML5 e CSS3.",
+  "main": "index.html",
+  "repository": "https://github.com/tammyfaga/codenation-challenge-1",
+  "author": "Tammy Fagá",
+  "license": "MIT",
+  "scripts": { "start": "live-server --open=public"},
+
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

@@ -1,0 +1,32 @@
+.nav-catalog {
+  width: 100%;
+}
+
+.menu-catalog {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  justify-content: center;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.menu-catalog-item {
+  margin: 0 20px;
+}
+
+.menu-catalog-link {
+  display: inline-block;
+  color: #e4bb23;
+  padding: 25px 0;
+  font-size: 1.3em;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+}
+
+.menu-catalog-link:hover {
+  box-shadow: inset 0 -1px 0 #e4bb23;
+}

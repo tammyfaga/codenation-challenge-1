@@ -1,0 +1,27 @@
+.nav-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1;
+}
+
+.menu-header {
+  display: flex;
+}
+
+.menu-header-item {
+  margin: 0 25px;
+}
+
+.menu-header-link {
+  color: #fff;
+  font-size: 1.3em;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+}
+
+.menu-header-link:hover {
+  color: #e4bb23;
+}
